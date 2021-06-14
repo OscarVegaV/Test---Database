@@ -1,0 +1,10 @@
+INSERT INTO invoices (created_at,net,tax,gross,customer_id) VALUES ('14-02-2021','1300',170,1470,1);
+INSERT INTO invoices (created_at,net,tax,gross,customer_id) VALUES ('15-02-2021','975',130,1105,1);
+INSERT INTO invoices (created_at,net,tax,gross,customer_id) VALUES ('16-02-2021','975',130,1105,2);
+INSERT INTO invoices (created_at,net,tax,gross,customer_id) VALUES ('17-02-2021','1300',170,1470,2);
+INSERT INTO invoices (created_at,net,tax,gross,customer_id) VALUES ('18-02-2021','8000',1040,9040,2);
+INSERT INTO invoices (created_at,net,tax,gross,customer_id) VALUES ('19-02-2021','200',30,230,3);
+INSERT INTO invoices (created_at,net,tax,gross,customer_id) VALUES ('20-02-2021','1300',170,1470,4);
+INSERT INTO invoices (created_at,net,tax,gross,customer_id) VALUES ('21-02-2021','8000',1040,9040,4);
+INSERT INTO invoices (created_at,net,tax,gross,customer_id) VALUES ('22-02-2021','8800',1145,9945,4);
+INSERT INTO invoices (created_at,net,tax,gross,customer_id) VALUES ('23-02-2021','800',105,905,4);
